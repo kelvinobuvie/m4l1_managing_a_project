@@ -4,9 +4,9 @@ Green
 Cyan
 Yellow
 Ivory
-Khaki
-Coral
-Silver
+Shoe 
+Bag
+Tan
 Fuchsia
 Gray
 Brown
